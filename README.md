@@ -4,7 +4,7 @@
   - 👨🏽‍💻📱 Estudio primero de Desarrollo de Aplicaciones Multiplataforma (DAM para los amigos) 
   - 🏫 Actualmente estoy aparendiendo fundamentos de la programación y ciencia de la computación con el curso [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science "CS50's Introduction to Computer Science")
   - 💞️ Me apasiona el mundo de la IA y Cyberseguridad
-  - ⚡ Fun fact: Me gradué como técnico de laboratorio clínico y me dediqué principalmente al diagnóstico por biología molecular 👨🏽‍🔬🧬
+  - ⚡ Fun fact: Me gradué como técnico de laboratorio clínico y me dediqué mayormente al diagnóstico por biología molecular 👨🏽‍🔬🧬
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
