@@ -4,7 +4,7 @@
 </br>
 
 ## About me 👀
-  - 👨🏽‍💻📱 Estudio primero de [Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html) (DAM para los amigos)  
+  - 👨🏽‍💻📱 Estudio primero de [Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html) (DAM para los amigos) en el [CIFP La conservera](https://www.ieslosalbares.es/laconservera/)
   - 🏫 Actualmente estoy aparendiendo fundamentos de la programación y ciencia de la computación con el curso [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science "CS50's Introduction to Computer Science")   
   - 💞️ Me apasiona el mundo de la IA y Cyberseguridad   
   - ⚡ Fun fact: Me gradué como técnico de laboratorio clínico y me dediqué mayormente al diagnóstico por biología molecular 👨🏽‍🔬🧬   
@@ -75,9 +75,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Preferencias</b>
 
-  - **Full-Stack**
-  - **Diseño UI/UX**
-  - **Bases de Datos**
+###  🖥️ **Full-Stack** 
+###  🎨 **Diseño UI/UX** 
+###  💾 **Bases de Datos** 
+###  📲 **Mobile Development** 
 
 
 <!---
