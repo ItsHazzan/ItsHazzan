@@ -13,9 +13,9 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Skills</b>
 
-  - **Lenguajes de Programación y Lenguajes de Marcas**:
+  - **Lenguajes de Programación y Lenguajes de Marcas que conozco**:
    
   <p align="center">
     <a href="https://skillicons.dev">
@@ -23,15 +23,15 @@
     </a>
   </p>
   
-  - **Tecnologías**
+  - **Tecnologías favoritas:**
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,idea,&perline=14" />
+      <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,idea,obsidian&perline=14" />
     </a>
   </p>
   
-  - **Idiomas**
+  - **Idiomas que hablo:**
   <h1 align="center"><img src=https://github.com/user-attachments/assets/493a1885-9984-48ea-8dac-3c90ef177b2c><img src=https://github.com/user-attachments/assets/32ef418f-7a5b-4497-9f93-c0b9dcd66cf8><img src=https://github.com/user-attachments/assets/a912263e-b2dc-4719-ad59-966f6f245282><img src=https://github.com/user-attachments/assets/f66810fe-0816-4ad5-9dd5-e361a178b1cc></h1><br>
 
 
