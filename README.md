@@ -19,7 +19,7 @@
    
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,java,js,md,c,python,&perline=14" />
+      <img src="https://skillicons.dev/icons?i=md,html,css,js,java,c,python,&perline=14" />
     </a>
   </p>
   
@@ -80,6 +80,11 @@
 
 
 <!---
+Contenido que ha servido de inspiración: 
+https://www.youtube.com/watch?v=ZUeklrWb_mE
+https://github.com/igijon/igijon/blob/main/README.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
+
 ItsHazzan/ItsHazzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
